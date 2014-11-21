@@ -37,4 +37,8 @@ QA = [
 	}
 ]
 
+topic_order={"social":1,"silly questions":2,"ballin":3}
+score_order={"100":1,"200":2,"300":3,"400":4,"500":5}
 
+
+var sortedLookup = {};
